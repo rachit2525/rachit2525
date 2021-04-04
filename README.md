@@ -2,7 +2,7 @@
 
 I'm a 3rd-year undergraduate student currently pursuing my bachelor's in Information Technology from Motilal Nehru National Institute of Technology. 
 
-<img src="https://drive.google.com/file/d/1AeL6R13nk9si4t0RueXrHUmHx7tmrJYp/view?usp=sharing" width="450" height="400" />
+<img src="https://github.com/rachit2525/rachit2525/blob/main/github_readme_cover_image.jpg" width="450" height="400" />
 
 <!--
 **rachit2525/rachit2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
