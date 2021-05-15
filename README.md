@@ -27,3 +27,5 @@ I'm a 3rd-year undergraduate student currently pursuing my bachelor's in Informa
 <a href="https://www.linkedin.com/in/rachitawasthi2525/"><img src="https://img.shields.io/badge/-Rachit%20Awasthi%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rawasthi2525@gmail.com"><img src="https://img.shields.io/badge/-Rachit Awasthi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<!--![](https://komarev.com/ghpvc/?username=rachit2525) -->
